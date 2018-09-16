@@ -26,7 +26,7 @@ int main() {
 	scanf("%d",&divisor);
 	
 	while(dividendo > divisor) {
-		x += 1;9
+		x += 1;
 		dividendo -= divisor;
 	}	
 	
